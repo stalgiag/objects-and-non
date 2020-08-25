@@ -1,6 +1,6 @@
 import React from 'react';
-import {useStaticQuery, graphql} from 'gatsby'
-import Img from 'gatsby-image'
+import {useStaticQuery, graphql} from 'gatsby';
+import Img from 'gatsby-image';
 
 export default function Logo (){
     const data = useStaticQuery(graphql`
@@ -13,13 +13,13 @@ export default function Logo (){
         }
       }
     }
-  `)
-  return (
-      <Img
-      className="logo"
-      fluid={data.file.childImageSharp.fluid}
-      alt="Unknown object made by Sigve Knutson tinted red"
-      />
-  )
+  `);
+    return (
+        <Img
+            className="logo"
+            fluid={data.file.childImageSharp.fluid}
+            alt="Unknown object made by Sigve Knutson tinted red"
+        />
+    );
 
 }

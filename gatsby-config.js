@@ -1,4 +1,4 @@
-const path = require('path')
+const path = require('path');
 /**
  * Configure your Gatsby site with this file.
  *
@@ -6,18 +6,18 @@ const path = require('path')
  */
 
 module.exports = {
-  /* Your site config here */
-  plugins: [
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        name: 'images',
-        path: path.join(__dirname, 'src', 'images')
-      }
-    },
-    'gatsby-image',
-    'gatsby-plugin-sharp',
-    'gatsby-transformer-sharp',
-    `gatsby-plugin-sass`
-  ],
-}
+    /* Your site config here */
+    plugins: [
+        {
+            resolve: 'gatsby-source-filesystem',
+            options: {
+                name: 'images',
+                path: path.join(__dirname, 'src', 'images')
+            }
+        },
+        'gatsby-image',
+        'gatsby-plugin-sharp',
+        'gatsby-transformer-sharp',
+        'gatsby-plugin-sass'
+    ],
+};

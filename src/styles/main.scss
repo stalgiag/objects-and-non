@@ -19,12 +19,13 @@ nav li {
 
 header {
     display: grid;
-    grid-template: 1fr 2fr 1fr;
+    grid-template-columns: 2fr 1fr 2fr;
     grid-template-areas: ". nav .";
 }
 
 nav {
     grid-area: nav;
+
 }
 
 header li a {
