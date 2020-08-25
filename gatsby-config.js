@@ -15,9 +15,17 @@ module.exports = {
                 path: path.join(__dirname, 'src', 'images')
             }
         },
+        {
+            resolve: 'gatsby-source-filesystem',
+            options: {
+                name: 'images',
+                path: path.join(__dirname, 'src', 'markdown')
+            }
+        },
         'gatsby-image',
         'gatsby-plugin-sharp',
         'gatsby-transformer-sharp',
+        'gatsby-transformer-remark',
         'gatsby-plugin-sass'
     ],
 };
