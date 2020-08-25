@@ -8,29 +8,31 @@ export default function Resources() {
     return (
         <div>
             <header>
-                <Nav />
+                <Nav activeTab="SCHEDULE" />
                 <div id="logo-container">
                     <Logo />
                 </div>
             </header>
             <div id="body-container">
-                <ul>
-                    <li>Lorem Ipsum</li>
-                    <li>Lorem Ipsum</li>
-                    <li>Lorem Ipsum</li>
-                    <li>Lorem Ipsum</li>
-                    <li>Lorem Ipsum</li>
-                    <li>Lorem Ipsum</li>
-                    <li>Lorem Ipsum</li>
-                    <li>Lorem Ipsum</li>
-                    <li>Lorem Ipsum</li>
-                    <li>Lorem Ipsum</li>
-                    <li>Lorem Ipsum</li>
-                    <li>Lorem Ipsum</li>
-                    <li>Lorem Ipsum</li>
-                    <li>Lorem Ipsum</li>
-                    <li>Lorem Ipsum</li>
-                </ul>
+                <div id="body-center-content">
+                    <ul>
+                        <li>Lorem Ipsum</li>
+                        <li>Lorem Ipsum</li>
+                        <li>Lorem Ipsum</li>
+                        <li>Lorem Ipsum</li>
+                        <li>Lorem Ipsum</li>
+                        <li>Lorem Ipsum</li>
+                        <li>Lorem Ipsum</li>
+                        <li>Lorem Ipsum</li>
+                        <li>Lorem Ipsum</li>
+                        <li>Lorem Ipsum</li>
+                        <li>Lorem Ipsum</li>
+                        <li>Lorem Ipsum</li>
+                        <li>Lorem Ipsum</li>
+                        <li>Lorem Ipsum</li>
+                        <li>Lorem Ipsum</li>
+                    </ul>
+                </div>
             </div>
             <div id='marquee-container'>
                 <Marquee />

@@ -1,15 +1,15 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
-export default function Nav() {
+export default function Nav(props) {
     return (
         <nav>
             <ul>
-                <li id='active-nav-tab'><Link href="/">SYLLABUS</Link></li>
-                <li><Link to="/schedule">SCHEDULE</Link></li>
-                <li><Link href="/resources">RESOURCES</Link></li>
-                <li><Link href="/arena/">ARE.NA</Link></li>
-                <li><Link href="/work/">WORK</Link></li>
+                <li id={props.activeTab=='SYLLABUS'?'active-nav-tab':''} ><Link to="/">SYLLABUS</Link></li>
+                <li id={props.activeTab=='SCHEDULE'?'active-nav-tab':''} ><Link to="/schedule">SCHEDULE</Link></li>
+                <li id={props.activeTab=='RESOURCES'?'active-nav-tab':''} ><Link to="/resources">RESOURCES</Link></li>
+                <li><Link to="/arena/">ARE.NA</Link></li>
+                <li id={props.activeTab=='WORK'?'active-nav-tab':''}><Link to="/work/">WORK</Link></li>
             </ul>
         </nav>
     );
