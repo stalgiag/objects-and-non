@@ -19,7 +19,7 @@ class Resources extends React.Component {
                     </div>
                 </header>
                 <div id="body-container">
-                    <div id="body-center-content">
+                    <div className="body-center-content">
                         <Markdown category="RESOURCES" />
                     </div>
                 </div>

@@ -21,7 +21,7 @@ export default function Markdown( props) {
         }
     }
     return (
-        <div>
+        <div className='markdown-content'>
             <div dangerouslySetInnerHTML={{ __html: html }} />
         </div>
     );
