@@ -3,9 +3,18 @@ import Doc from '../components/Doc';
 import Nav from '../components/Nav';
 import Logo from '../components/Logo';
 import Marquee from '../components/Marquee';
+import Footer from '../components/Footer';
 import '../styles/main.scss';
+import mobile from 'is-mobile';
 
 export default function Home() {
+    if (mobile()) {
+        return (
+            <div>
+                Mobile is not currently available for this class site; check back on a desktop or laptop
+            </div>
+        );
+    }
     return (
         <>
             <header>
@@ -24,7 +33,7 @@ export default function Home() {
             <div id='marquee-container'>
                 <Marquee />
             </div>
-
+            <Footer />
         </>
     );
 }

@@ -6,7 +6,6 @@ const path = require('path');
  */
 
 module.exports = {
-    /* Your site config here */
     plugins: [
         {
             resolve: 'gatsby-source-filesystem',
@@ -28,4 +27,5 @@ module.exports = {
         'gatsby-transformer-remark',
         'gatsby-plugin-sass'
     ],
+    pathPrefix: '/objects-and-non',
 };

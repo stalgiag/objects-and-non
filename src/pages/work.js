@@ -2,31 +2,21 @@ import React from 'react';
 import Nav from '../components/Nav';
 import Logo from '../components/Logo';
 import Marquee from '../components/Marquee';
-import Markdown from '../components/Markdown';
 import Footer from '../components/Footer';
 import '../styles/main.scss';
 
-import mobile from 'is-mobile';
-
 export default function Resources() {
-    if (mobile()) {
-        return (
-            <div>
-                Mobile is not currently available for this class site; check back on a desktop or laptop
-            </div>
-        );
-    }
     return (
         <>
             <header>
-                <Nav activeTab="SCHEDULE" />
+                <Nav activeTab="WORK" />
                 <div id="logo-container">
                     <Logo />
                 </div>
             </header>
             <div id="body-container">
                 <div className="body-center-content">
-                    <Markdown category="SCHEDULE" />
+                    <h2 style={{textAlign: 'right'}}>YOUR WORK WILL BE ADDED TO THIS SECTION AFTER THE END OF THE SEMESTER</h2>
                 </div>
             </div>
             <div id='marquee-container'>

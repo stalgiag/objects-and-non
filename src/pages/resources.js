@@ -3,6 +3,8 @@ import Nav from '../components/Nav';
 import Logo from '../components/Logo';
 import Marquee from '../components/Marquee';
 import Markdown from '../components/Markdown';
+import Footer from '../components/Footer';
+import mobile from 'is-mobile';
 
 class Resources extends React.Component {
     componentDidMount() {
@@ -10,6 +12,13 @@ class Resources extends React.Component {
     }
 
     render() {
+        if (mobile()) {
+            return (
+                <div>
+                    Mobile is not currently available for this class site; check back on a desktop or laptop
+                </div>
+            );
+        }
         return (
             <div>
                 <header>
@@ -26,7 +35,7 @@ class Resources extends React.Component {
                 <div id='marquee-container'>
                     <Marquee />
                 </div>
-
+                <Footer />
             </div>
         );
     }
