@@ -2,7 +2,11 @@
 category: "RESOURCES"
 ---
 
-MORE ACTUAL RESOURCES WILL BE ADDED AFTER CLASS 1
+
+# <u>Are.na</u>
+
+- [Getting started with Are.na](https://www.are.na/getting-started)
+- [Video Tutorial](https://support.are.na/help/can-i-watch-a-tutorial-3b49c282)
 
 *** 
 
@@ -56,3 +60,6 @@ MORE ACTUAL RESOURCES WILL BE ADDED AFTER CLASS 1
 
 <sub><sup>note that these categories are absolutely arbitrary and many of these artists' practices fit into more than one of these extremely vague categories ¯\\\_(ツ)\_/¯</sup></sub> 
 
+---
+
+MORE RESOURCES WILL BE ADDED AFTER CLASS 1
