@@ -47,7 +47,7 @@ CLASS 02 | 09-03
 #### Before Next Class
 - Read [Tim Morton's Introduction to "Realist Magic: Objects, Ontology, Causality"](https://www.meineigenheim.org/ccny/diap/B2050_old/materials/ooo/realist-magic-objects-ontology-causality.pdf)
 - Read [Chapter 1: Irreductions of Prince of Networks by Graham Harmon](http://www.re-press.org/book-files/OA_Version_780980544060_Prince_of_Networks.pdf)
-- Document 5 relationships between objects that tell a story
+- Document 5 relationships between objects that communicate a new meaning through their relationship.
   - These can be photographs, drawings, whatever is generative for you
   - These can be constructed or discovered
   - Start a new are.na channel named "Constructed or Non" that is connected to your "Objects & Non" Channel
