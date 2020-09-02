@@ -16,6 +16,7 @@ category: "RESOURCES"
 - Cayetano Ferrer
 - Tom Sachs
 - Morehshin Allahyari
+- William Pope.L
 
 ## Mimickry and Reproduction
 - Sturtevant
@@ -46,6 +47,7 @@ category: "RESOURCES"
 - Haim Steinbach
 - Barbara Bloom
 - Jason Rhoades
+- Martyne Syms
 
 ## Cybernetics and Systems
 - Hans Haacke
@@ -61,5 +63,3 @@ category: "RESOURCES"
 <sub><sup>note that these categories are absolutely arbitrary and many of these artists' practices fit into more than one of these extremely vague categories ¯\\\_(ツ)\_/¯</sup></sub> 
 
 ---
-
-MORE RESOURCES WILL BE ADDED AFTER CLASS 1

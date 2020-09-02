@@ -42,12 +42,17 @@ CLASS 02 | 09-03
 #### During Class
 - Reading Discussion
 - Object Discussion
-- Artist Lecture (Material and Presence)
+- Artist Lecture (Connect v. Disconnected)
 
 #### Before Next Class
 - Read [Tim Morton's Introduction to "Realist Magic: Objects, Ontology, Causality"](https://www.meineigenheim.org/ccny/diap/B2050_old/materials/ooo/realist-magic-objects-ontology-causality.pdf)
-- Bring something malleable to class, something without finalized form, something that can be manipulated by your hands
-  - Examples: clay, playdoh, dough, slime, mud, peanut butter, etc (note these examples are straightforward, feel free to surprise us)
+- Read [Chapter 1: Irreductions of Prince of Networks by Graham Harmon](http://www.re-press.org/book-files/OA_Version_780980544060_Prince_of_Networks.pdf)
+- Document 5 relationships between objects that tell a story
+  - These can be photographs, drawings, whatever is generative for you
+  - These can be constructed or discovered
+  - Start a new are.na channel named "Constructed or Non" that is connected to your "Objects & Non" Channel
+  - Add your 5 documents to the channel
+  - Bonus points if these object-relationship-configurations relate to your practice in a way that you can express (not actual bonus points, just a good goal)
 
 </div>
 
@@ -61,18 +66,21 @@ CLASS 03 | 09-10
 <div class = "class-schedule-details">
 
 #### During Class
-- Mutability Discussion
-- Photogrammetry Workshop Pt 1
-- Lecture on Interobject Relationships
+- View and Discuss 'Constructed or Non' homework
+- Discuss Readings
+- Artist Lecture (Object v. Non-Object)
 
 #### Before Next Class
-- Document 5 relationships between objects that tell a story
-  - These can be photographs, drawings, whatever is generative for you
-  - These can be constructed or discovered
-  - Start a new are.na channel named "Incidental or Made" that is connected to your "Objects & Non" Channel
-  - Add your 5 documents to the channel
-  - Bonus points if these object-relationship-configurations in a way that you can express (not actual bonus points, just a good goal)
-- Read [Chapter 1: Irreductions of Prince of Networks by Graham Harmon](http://www.re-press.org/book-files/OA_Version_780980544060_Prince_of_Networks.pdf)
+
+- Watch [On Touching: The Alterity Within by Karan Barad](https://youtu.be/u7LvXswjEBY?t=190) - you can skip the Q+A
+- Read [The Question Concerning Technology by Martin Heidegger](https://simondon.ocular-witness.com/wp-content/uploads/2008/05/question_concerning_technology.pdf)
+- (Optional) Read [Is Heidegger Contaminated by Nazism by Joshua Rothman](https://www.newyorker.com/books/page-turner/is-heidegger-contaminated-by-nazism)
+- Install Autodesk Recap Pro (professional-grade photogrammetry software)
+  - [Free with Education License](https://www.autodesk.com/education/edu-software/overview?sorting=featured&page=1)
+  - NOTE: Do this early because you may need to upload a photo of your student ID for confirmation
+- Bring something malleable to class, something without finalized form, something that can be manipulated by your hands
+  - Examples: clay, playdoh, dough, slime, mud, peanut butter, etc (note these examples are straightforward, feel free to surprise us)
+
 
 
 </div>
@@ -87,9 +95,10 @@ CLASS 04 | 09-17
 <div class = "class-schedule-details">
 
 #### During Class
-- View and Discuss 'Incidental and Made' homework
-- Photogrammetry Workshop Pt. 2
-- Lecture on Material vs. Immaterial
+- Mutability Discussion
+- Photogrammetry Workshop
+- Artist Lecture (Mutable V. Immutable)
+
 
 #### Before Next Class
 - Develop an idea for an artwork that engages with 1 of the following binaries:
@@ -97,6 +106,7 @@ CLASS 04 | 09-17
   - Material v. Immaterial
   - Mutable v. Immutable
   - Connected v. Disconnected
+  - Object v. Non-Object
 - This artwork can be based on prior work, it can also be an adaptation of an ongoing project
 - The project should be scoped so that it can be completed for critique in 1 month
 - Prepare a 10-slide proposal presentation for your artwork
@@ -141,9 +151,10 @@ CLASS 06 | 10-01
 
 #### During Class
 - Reading Discussion
-- Digital Materiality lecture
+- Lecture (Material v. Immaterial)
 
 #### Before Next Class
+- Read [The Alien Aesthetic of Speculative Realism ... by Roberto Simanowski](http://static1.1.sqspcdn.com/static/f/1181229/24797460/1398712596077/13_Simanowski_the_alien_aesthetics_of_speculative_realism_or_how_interpretation_lost_the_battle_to_materiality_and_how_comfortable_this_is_to_humans.pdf?token=PlkfZBfO9twqmzj1OwmfYVqIE2I%3D)
 - Prepare work-in-progress documentation or anything useful for 1-on-1 studio visits
 - Create a 'Project 1' channel and connect it to your 'Objects and Non' channel
   - Add 10 reference blocks to this new channel
