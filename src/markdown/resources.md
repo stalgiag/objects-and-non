@@ -70,7 +70,7 @@ category: "RESOURCES"
 - [charnel space](https://www.charnel.space/)
 - [NERO editions](https://www.neroeditions.com/magazine/)
 - [Glass-Bead](https://www.glass-bead.org/?lang=enview)
-- [eart sciences](https://sciences.earth/)
+- [earth sciences](https://sciences.earth/)
 - [AQNB](https://www.aqnb.com/)
 
 

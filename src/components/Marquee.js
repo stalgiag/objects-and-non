@@ -4,7 +4,6 @@ import React from 'react';
 class Marquee extends React.Component {
     componentDidMount () {
         Marquee3k.init();
-        Marquee3k.refreshAll();
     }
 
     render() {
