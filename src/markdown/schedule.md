@@ -75,12 +75,6 @@ CLASS 03 | 09-10
 - Watch [On Touching: The Alterity Within by Karan Barad](https://youtu.be/u7LvXswjEBY?t=190) - you can skip the Q+A
 - Read [The Question Concerning Technology by Martin Heidegger](https://simondon.ocular-witness.com/wp-content/uploads/2008/05/question_concerning_technology.pdf)
 - (Optional) Read [Is Heidegger Contaminated by Nazism by Joshua Rothman](https://www.newyorker.com/books/page-turner/is-heidegger-contaminated-by-nazism)
-- Install Autodesk Recap Pro (professional-grade photogrammetry software)
-  - [Free with Education License](https://www.autodesk.com/education/edu-software/overview?sorting=featured&page=1)
-  - NOTE: Do this early because you may need to upload a photo of your student ID for confirmation
-- Bring something malleable to class, something without finalized form, something that can be manipulated by your hands
-  - Examples: clay, playdoh, dough, slime, mud, peanut butter, etc (note these examples are straightforward, feel free to surprise us)
-
 
 
 </div>
@@ -96,22 +90,35 @@ CLASS 04 | 09-17
 
 #### During Class
 - Mutability Discussion
-- Photogrammetry Workshop
+- Photogrammetry Demo
 - Artist Lecture (Mutable V. Immutable)
 
 
 #### Before Next Class
-- Develop an idea for an artwork that engages with 1 of the following binaries:
-  - Subject v. Object
-  - Material v. Immaterial
-  - Mutable v. Immutable
-  - Connected v. Disconnected
-  - Object v. Non-Object
-- This artwork can be based on prior work, it can also be an adaptation of an ongoing project
-- The project should be scoped so that it can be completed for critique in 1 month
-- Prepare a 10-slide proposal presentation for your artwork
-- Your presentation should include information on both the conceptual intentions and practical considerations for the project
-- Bring your proposal to next class, you will screenshare and present your idea, we will offer feedback
+- Develop an idea for an artwork
+  - One of these binaries can serve as a useful jumping off point:
+      - Subject v. Object
+      - Material v. Immaterial
+      - Mutable v. Immutable
+      - Connected v. Disconnected
+      - Object v. Non-Object
+  - This artwork can be based on prior work, it can also be an adaptation of an ongoing project
+  - The project should be scoped so that it can be completed for critique in 1 month
+  - The project can be a segment of a larger work (such as thesis) but it should be scoped so that a discrete segment can be completed for critique in 1 month
+
+- Prepare a proposal presentation for your artwork
+  - The presentation should be roughly 5 minutes in duration
+  - You should have at least 5 slides
+  - You should explain both the themes and methodology in the work
+  - You should present a timeline that breaks down the project into 4 one-week milestones
+  - You should outline what the main challenges will be
+  - You should explain how this work is situated in your past work
+  - You should tell us how the work will live in the world (as video, as a site-specific installation, as a one-time performance, as a website with photo documentation, etc ...)
+  - If the project is time-based and will be longer than 10 minutes, tell us how you will present for critique (send video before class for viewing outside of class, show us an edited version so we can view in a limited timeframe, etc)
+
+- Bring your proposal to next class
+  - you will screenshare and present your idea, again the duration is 5 minutes
+  - we will offer feedback for 5 minutes
 
 </div>
 
@@ -128,15 +135,7 @@ CLASS 05 | 09-24
 - View your proposals and share feedback with one another
 
 #### Before Next Class
-- Read [the Introduction to 'On the Existence of Digital Objects' by Yuk Hui](https://sgp1.digitaloceanspaces.com/proletarian-library/My-library/Yuk%20Hui/On%20the%20Existence%20of%20Digital%20Objects%20%28Electronic%20Mediations%29%20%28455%29/On%20the%20Existence%20of%20Digital%20Objects%20%28Elect%20-%20Yuk%20Hui.pdf)
 - Read [Form and Relation: Materialism on an Uncanny Stage by Yuk Hui](http://digitalmilieu.net/documents/Hui_form%20and%20relation.pdf)
-
-- Document 5 'digital objects'
-  - Documentation can be photographs, drawings, whatever is expressive
-  - Start a new are.na channel named "Digital Objects" that is connected to your "Objects & Non" Channel
-  - Add your 5 documents to the channel
-  - Bonus points if these object-relationship-configurations in a way that you can express (not actual bonus points, just a good goal)
-
 
 </div>
 
@@ -152,13 +151,10 @@ CLASS 06 | 10-01
 #### During Class
 - Reading Discussion
 - Lecture (Material v. Immaterial)
+- 1-on-1 studio visits
 
 #### Before Next Class
 - Read [The Alien Aesthetic of Speculative Realism ... by Roberto Simanowski](http://static1.1.sqspcdn.com/static/f/1181229/24797460/1398712596077/13_Simanowski_the_alien_aesthetics_of_speculative_realism_or_how_interpretation_lost_the_battle_to_materiality_and_how_comfortable_this_is_to_humans.pdf?token=PlkfZBfO9twqmzj1OwmfYVqIE2I%3D)
-- Prepare work-in-progress documentation or anything useful for 1-on-1 studio visits
-- Create a 'Project 1' channel and connect it to your 'Objects and Non' channel
-  - Add 10 reference blocks to this new channel
-  - These reference blocks can be sketches, found images, notes, anything that shows your active thinking
 
 </div>
 
@@ -172,11 +168,12 @@ CLASS 07 | 10-08
 <div class = "class-schedule-details">
 
 #### During Class
-- 1-on-1 studio visits
+- Reading Discussion
+- Technical Workshop: Photorealistic Collage for the Immersive Web
 
 #### Before Next Class
-- Read [Black Mysticism by Calvin Warren](https://unbag.net/end/black-mysticism)
-- Read A Poetics of the Undercommons by Fred Moten
+- Read [pg 1-24 of "A Poetics of the Undercommons" by Fred Moten](https://monoskop.org/images/3/34/Moten_Fred_A_Poetics_of_the_Undercommons_2016.pdf)
+- OPTIONAL: Read Part 6 "Fantasy in the Hold" pg 87-99 in [The Undercommons by Stefano Harvey and Fred Moten](https://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf)
 
 </div>
 
@@ -191,9 +188,10 @@ CLASS 08 | 10-15
 
 #### During Class
 - Reading Discussion
-- Brief 1-on-1 Meetings
+- 1-on-1 studio visits
 
 #### Before Next Class
+- [Interbeing by Daniel Wahl](https://medium.com/age-of-awareness/interbeing-be02f2fd580b) (short suggestion from Alethea)
 - Finish Project 1 for Critique
 
 </div>
@@ -208,13 +206,11 @@ CLASS 09 | 10-22
 <div class = "class-schedule-details">
 
 #### During Class
-- Critique
+- Critique Project 1 Pt. 1
 
 #### Before Next Class
-- Read Strange Weather: Indigenous Materialisms, New Materialism, and Colonialism by Alison Ravenscroft
-- Read Excerpt from Vibrant Matter by Jane Bennet
-- Read Animacies: Biopolitics, Racial Mattering, and Queer Affect by Mel Chin
-- Read 3D Additivist Manifesto
+- If you didn't read it last week read [Interbeing by Daniel Wahl](https://medium.com/age-of-awareness/interbeing-be02f2fd580b) (short suggestion from Alethea)
+- Read [Chapter 1 "The Force of Things" from Vibrant Matter](http://film.ncu.edu.tw/word/Vibrant-Matter.pdf) by Jane Bennet
 
 </div>
 
@@ -229,10 +225,11 @@ CLASS 10 | 10-29
 
 #### During Class
 - Discuss Readings
-- Technical Workshop (TBD)
+- Critique Project 1 Pt. 2
+- Technical Workshop: Digital Substance Painting
 
 #### Before Next Class
-- Prepare a 10-slide proposal presentation for your final project
+- Prepare a proposal presentation for your final project
 
 </div>
 
@@ -249,11 +246,8 @@ CLASS 11 | 11-05
 - View your proposals and share feedback with one another
 
 #### Before Next Class
-- Create a 'Project 2' channel and connect it to your 'Objects and Non' channel
-  - Add 10 reference blocks to this new channel
-  - These reference blocks can be sketches, found images, notes, anything that shows your active thinking
 
-- Read TBD Readings on Mimickry and Hyperrealism
+- Read [The Lifecycle of Software Objects by Ted Chiang](https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/8/644/files/2017/08/Chiang-Lifecycle-of-Software-Objects-q3tsuw.pdf) Chapters 1-5
 
 </div>
 
@@ -267,11 +261,11 @@ CLASS 12 | 11-12
 <div class = "class-schedule-details">
 
 #### During Class
-- Technical Tutorial (TBD)
+- Technical Tutorial: AR on the Web
 
 #### Before Next Class
 
-- Read TBD
+- Read [The Lifecycle of Software Objects by Ted Chiang](https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/8/644/files/2017/08/Chiang-Lifecycle-of-Software-Objects-q3tsuw.pdf) Chapters 6-10
 
 </div>
 
@@ -285,11 +279,12 @@ CLASS 13 | 11-19
 <div class = "class-schedule-details">
 
 #### During Class
-- 1-on-1 Meetings
+- Reading Discussion
+- 1-on-1 Studio Visits
 
 #### Before Next Class
 
-- Read TBD
+- Complete Final Project
 
 </div>
 

@@ -11,6 +11,48 @@ category: "RESOURCES"
 *** 
 
 # <u>Digital 3D</u>
+
+*Coding the Immersive Web*
+- [three.js](https://threejs.org/)
+- [a-frame](https://aframe.io/)
+- [Glitch](https://glitch.com/)
+
+*Photogrammetry Software (professional)*
+- [Autodesk Recap Pro](https://www.autodesk.com/products/recap/overview?plc=RECAP&term=1-YEAR&support=ADVANCED&quantity=1)
+  - Free with [Education Account](https://knowledge.autodesk.com/customer-service/account-management/education-program/free-education-access) (sign up with .edu and verify)
+  - [Only works on Windows 10 now](https://knowledge.autodesk.com/support/recap/learn-explore/caas/sfdcarticles/sfdcarticles/System-requirements-for-Autodesk-ReCap-Pro-2019-ReCap-Photo-2019-and-ReCap-Pro-app-for-iPad.html) but does not need a powerful computer as assets are processed remotely on Autodesk servers
+
+- [Agisoft Metashape](https://www.agisoft.com/features/standard-edition/)
+  - [$59 with education license](https://www.agisoft.com/buy/online-store/educational-license/)
+  - Works on Windows, Mac, and Linux
+
+*Photogrammetry Apps*
+- [TRNIO](https://apps.apple.com/us/app/trnio/id683053382)
+  - iOS only
+  - $2.99
+
+- [Scann3D](https://play.google.com/store/apps/details?id=com.smartmobilevision.scann3d)
+  - Android Only
+  - Free (i think??)
+
+- [Capture: 3D Scan Anything](https://apps.apple.com/us/app/capture-3d-scan-anything/id1444183458)
+  - iOS only, must have iPhone X or 11
+  - Free
+  - Selfie-camera only (uses IR)
+  - The one I used in class
+
+- [Scandy](https://apps.apple.com/us/app/scandy-pro-3d-scanner/id1388028223)
+  - iOS only, must have iPhone X or 11
+  - Free
+  - Selfie-camera only (uses IR)
+
+- [Bellus3D](https://apps.apple.com/us/app/bellus3d-faceapp/id1352268131)
+  - iOS only, must have iPhone X or 11
+  - Free
+  - Selfie-camera only (uses IR)
+  - Capable of producing high-quality face scans
+
+
 *Assets for 3D printing*
 - [All3DP](https://all3dp.com/)
 - [Thingiverse](https://www.thingiverse.com/)
